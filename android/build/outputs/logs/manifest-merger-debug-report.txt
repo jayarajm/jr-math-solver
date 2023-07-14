@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml:1:1-2:12
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml:1:1-2:12
+	package
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+		ADDED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml:1:1-2:12
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+		ADDED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+		ADDED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/jayaraj/jProjects/Jayaraj/jr-math-solver/android/src/main/AndroidManifest.xml
